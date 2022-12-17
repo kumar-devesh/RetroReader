@@ -1,0 +1,130 @@
+{
+    "id-01": [
+        {
+            "start_logit": 6.593112468719482,
+            "end_logit": 7.17363166809082,
+            "text": "16\uc138\uae30 \uc870\uc120",
+            "probability": 0.5461578369140625
+        },
+        {
+            "start_logit": 6.204561233520508,
+            "end_logit": 7.17363166809082,
+            "text": "\uc870\uc120",
+            "probability": 0.3703158497810364
+        },
+        {
+            "start_logit": 6.593112468719482,
+            "end_logit": 4.418398857116699,
+            "text": "16\uc138\uae30",
+            "probability": 0.03473244234919548
+        },
+        {
+            "start_logit": 6.593112468719482,
+            "end_logit": 3.898327350616455,
+            "text": "16\uc138\uae30 \uc870\uc120\uc758 \ubb34\uc2e0",
+            "probability": 0.02064768597483635
+        },
+        {
+            "start_logit": 6.204561233520508,
+            "end_logit": 3.898327350616455,
+            "text": "\uc870\uc120\uc758 \ubb34\uc2e0",
+            "probability": 0.013999917544424534
+        },
+        {
+            "start_logit": 6.593112468719482,
+            "end_logit": 1.9353169202804565,
+            "text": "16\uc138\uae30 \uc870\uc120\uc758",
+            "probability": 0.0028996567707508802
+        },
+        {
+            "start_logit": 6.204561233520508,
+            "end_logit": 1.9353169202804565,
+            "text": "\uc870\uc120\uc758",
+            "probability": 0.001966079929843545
+        },
+        {
+            "start_logit": 6.593112468719482,
+            "end_logit": 1.3068701028823853,
+            "text": "16\uc138\uae30 \uc870\uc120\uc758 \ubb34\uc2e0\uc73c\ub85c, \uc77c\ubcf8\uc774 \uc870\uc120\uc744 \uce68\uacf5\ud558\uc5ec \uc77c\uc5b4\ub09c \uc804\uc7c1\uc778 \uc784\uc9c4\uc65c\ub780 \ub2f9\uc2dc",
+            "probability": 0.001546734245494008
+        },
+        {
+            "start_logit": 6.593112468719482,
+            "end_logit": 1.0429743528366089,
+            "text": "16\uc138\uae30 \uc870\uc120\uc758 \ubb34\uc2e0\uc73c\ub85c",
+            "probability": 0.001187975169159472
+        },
+        {
+            "start_logit": 6.593112468719482,
+            "end_logit": 1.0381380319595337,
+            "text": "16\uc138\uae30 \uc870\uc120\uc758 \ubb34\uc2e0\uc73c\ub85c,",
+            "probability": 0.001182243344374001
+        },
+        {
+            "start_logit": 6.593112468719482,
+            "end_logit": 0.9416208863258362,
+            "text": "16\uc138\uae30 \uc870\uc120\uc758 \ubb34\uc2e0\uc73c\ub85c, \uc77c\ubcf8\uc774 \uc870\uc120\uc744 \uce68\uacf5\ud558\uc5ec \uc77c\uc5b4\ub09c \uc804\uc7c1\uc778 \uc784\uc9c4\uc65c\ub780",
+            "probability": 0.0010734702227637172
+        },
+        {
+            "start_logit": 6.204561233520508,
+            "end_logit": 1.3068701028823853,
+            "text": "\uc870\uc120\uc758 \ubb34\uc2e0\uc73c\ub85c, \uc77c\ubcf8\uc774 \uc870\uc120\uc744 \uce68\uacf5\ud558\uc5ec \uc77c\uc5b4\ub09c \uc804\uc7c1\uc778 \uc784\uc9c4\uc65c\ub780 \ub2f9\uc2dc",
+            "probability": 0.0010487453546375036
+        },
+        {
+            "start_logit": 6.204561233520508,
+            "end_logit": 1.0429743528366089,
+            "text": "\uc870\uc120\uc758 \ubb34\uc2e0\uc73c\ub85c",
+            "probability": 0.0008054928621277213
+        },
+        {
+            "start_logit": 6.204561233520508,
+            "end_logit": 1.0381380319595337,
+            "text": "\uc870\uc120\uc758 \ubb34\uc2e0\uc73c\ub85c,",
+            "probability": 0.00080160639481619
+        },
+        {
+            "start_logit": 6.204561233520508,
+            "end_logit": 0.9416208863258362,
+            "text": "\uc870\uc120\uc758 \ubb34\uc2e0\uc73c\ub85c, \uc77c\ubcf8\uc774 \uc870\uc120\uc744 \uce68\uacf5\ud558\uc5ec \uc77c\uc5b4\ub09c \uc804\uc7c1\uc778 \uc784\uc9c4\uc65c\ub780",
+            "probability": 0.0007278542034327984
+        },
+        {
+            "start_logit": -0.9572362303733826,
+            "end_logit": 7.17363166809082,
+            "text": "\uc138\uae30 \uc870\uc120",
+            "probability": 0.0002872388286050409
+        },
+        {
+            "start_logit": 6.593112468719482,
+            "end_logit": -0.38118115067481995,
+            "text": "16\uc138\uae30 \uc870\uc120\uc758 \ubb34\uc2e0\uc73c\ub85c, \uc77c\ubcf8\uc774 \uc870\uc120\uc744 \uce68\uacf5\ud558\uc5ec \uc77c\uc5b4\ub09c \uc804\uc7c1\uc778 \uc784\uc9c4\uc65c\ub780 \ub2f9\uc2dc \uc870\uc120",
+            "probability": 0.0002859594242181629
+        },
+        {
+            "start_logit": 6.204561233520508,
+            "end_logit": -0.38118115067481995,
+            "text": "\uc870\uc120\uc758 \ubb34\uc2e0\uc73c\ub85c, \uc77c\ubcf8\uc774 \uc870\uc120\uc744 \uce68\uacf5\ud558\uc5ec \uc77c\uc5b4\ub09c \uc804\uc7c1\uc778 \uc784\uc9c4\uc65c\ub780 \ub2f9\uc2dc \uc870\uc120",
+            "probability": 0.00019389147928450257
+        },
+        {
+            "start_logit": 6.593112468719482,
+            "end_logit": -1.315576195716858,
+            "text": "16",
+            "probability": 0.00011233158147661015
+        },
+        {
+            "start_logit": 6.593112468719482,
+            "end_logit": -2.8407132625579834,
+            "text": "16\uc138\uae30 \uc870\uc120\uc758 \ubb34\uc2e0\uc73c\ub85c, \uc77c\ubcf8\uc774 \uc870\uc120",
+            "probability": 2.444236997689586e-05
+        },
+        {
+            "start_logit": 0.9694282412528992,
+            "end_logit": 0.5619141459465027,
+            "text": "",
+            "probability": 2.651859858815442e-06
+        }
+    ]
+}
